@@ -1,0 +1,2 @@
+nsml run -e main.py -d airush2021-2-5 -g 1 --cpus 2 --memory 24000000000 --shm-size 1000000000
+nsml run -e main.py -d airush2021-2-5 -g 1 --cpus 2 --memory 24000000000 --shm-size 1000000000

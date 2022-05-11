@@ -1,0 +1,8 @@
+#nsml: reg.navercorp.com/chatbot/larva:latest
+#nsml: registry.navercorp.com/gyuwankim/airush-gec:latest
+
+
+nltk
+scikit-learn
+tokenizers
+transformers==4.6.1

@@ -1,0 +1,9 @@
+#nsml: scatterlab/python-mecab-ko:3.7-circleci-node
+g2pk
+pandas
+nltk
+
+torch==1.7.1+cu110 
+torchvision==0.8.2+cu110 
+torchaudio===0.7.2
+--find-links https://download.pytorch.org/whl/torch_stable.html

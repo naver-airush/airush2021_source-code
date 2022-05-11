@@ -1,0 +1,12 @@
+#//nsml: ufoym/deepo:all-py36-cu101
+#nsml: pytorchlightning/pytorch_lightning:base-cuda-py3.6-torch1.7
+#//nsml: pytorch/pytorch:1.8.1-cuda11.1-cudnn8-devel
+#//nsml: registry.navercorp.com/gyuwankim/airush-gec:latest
+scikit-learn
+nltk
+transformers>=4.0.0
+python-mecab-ko
+# tensorflow-gpu==2.3.0
+jamo
+g2pk
+konlpy
