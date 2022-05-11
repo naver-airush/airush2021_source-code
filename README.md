@@ -75,7 +75,7 @@ AI RUSH를 통해 탄생하는 일부 과제 및 우수모델을 공개하고 <b
 
 
 ## License
-AI RUSH 2021_source-code
+AI RUSH 2021_source-code <br>
 Copyright (c) 2022-present AI RUSH 2021 Members and NAVER Corp. 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
